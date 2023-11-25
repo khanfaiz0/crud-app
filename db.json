@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "nikhil",
+      "lastname": "verma",
+      "birthdate": "5054-01-04",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "xyz",
+      "jobExperience": 4,
+      "salary": 8,
+      "profile": "pic1.png",
+      "id": 1
+    },
+    {
+      "firstname": "Anali",
+      "lastname": "Dubey",
+      "birthdate": "1998-06-09",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "Accenture",
+      "jobExperience": 3,
+      "salary": 5,
+      "profile": "pic3.jpg",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
