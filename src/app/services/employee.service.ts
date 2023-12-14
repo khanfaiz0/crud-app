@@ -6,7 +6,8 @@ import { Employee } from '../models/employee.model';
   providedIn: 'root'
 })
 export class EmployeeService {
-  baseUrl = 'http://localhost:3000/posts';
+  // baseUrl = 'http://localhost:3000/posts';
+  baseUrl = 'https://raw.githubusercontent.com/khanfaiz0/crud-app/master/db.json';
 
   constructor(private http: HttpClient) { }
 
